@@ -6,7 +6,7 @@
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=TinyZzh&show_icons=true&theme=graywhite&locale=cn&hide_title=true&hide_border=true&bg_color=0,d8e887,8cc569,1d6a23" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyZzh&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=graywhite&bg_color=1d6a23,26a641,8cc569,d8e887" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=TinyZzh&show_icons=true&theme=graywhite&locale=cn&hide_title=true&hide_border=true&bg_color=0,d8e887,8cc569,1d6a23&exclude_repo=Intellij-IDEA-Master,TinyZzh.github.io,AssetStudio,Scut,simple-json,blizzless-diiis" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyZzh&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=graywhite&bg_color=1d6a23,26a641,8cc569,d8e887&exclude_repo=Intellij-IDEA-Master,TinyZzh.github.io,AssetStudio,Scut,simple-json,blizzless-diiis" />
 <span>  </span>
 </div>
 
