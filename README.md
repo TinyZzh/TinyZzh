@@ -4,9 +4,9 @@
 
 ### Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=TinyZzh&show_icons=true&theme=dark)](https://tinyzzh.github.io)
+[![](https://github-readme-stats.vercel.app/api?username=TinyZzh&show_icons=true&theme=transparent&locale=cn)](https://tinyzzh.github.io)
 
-### Recent 
+### Recent Contribution Graph
 
 [![](https://github-profile-trophy.vercel.app/?username=TinyZzh&theme=onedark&row=1&column=7&no-frame=true&no-bg=true)](https://tinyzzh.github.io)
 
