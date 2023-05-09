@@ -4,7 +4,11 @@
 
 ### Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=TinyZzh&show_icons=true&theme=transparent&locale=cn)](https://tinyzzh.github.io)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=TinyZzh&show_icons=true&theme=graywhite&locale=cn&hide_title=true&hide_border=true&bg_color=0,d8e887,8cc569,1d6a23" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyZzh&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=graywhite&bg_color=1d6a23,26a641,8cc569,d8e887" />
+<span>  </span>
+</div>
 
 ### Recent Contribution Graph
 
