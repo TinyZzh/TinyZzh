@@ -1,11 +1,22 @@
 ## :sparkles: About Me
 
-专注于高并发服务器、网络游戏相关(Java、PHP、Unity3D、Unreal Engine等)技术，热爱游戏事业, 正在努力实现自我价值当中。 欢迎关注 :point_right: [TinyZzh Blog](TinyZzh.github.io) :point_left: 
+专注于高并发服务器、网络游戏相关(Java、PHP、Unity3D、Unreal Engine等)技术，热爱游戏事业, 正在努力实现自我价值当中。 欢迎关注 :point_right: [TinyZzh Blog](https://TinyZzh.github.io) :point_left: 
 
-微信公众号:
+## Contact Me
+
+
 
 <div align="center">
-<img src="./images/qrcode_for_gh_6851568da690_258.jpg">
+<!-- 公众号 -->
+<img src="./images/qrcode_for_gh_6851568da690_258.jpg" style="height:128px">
+<!-- Github Pages -->
+<a href="https://TinyZzh.github.io">
+<img src="./images/TinyZ-logo.svg" style="height:128px">
+</a>
+<!-- Gmail -->
+<a href="mailto:tinyzzh815@gmail.com">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANBSURBVHhe7ZZBbtNAFIZBisQZWLWCE1SFdgMSBMEFyK4bdogLILoAwaJCwAmAFQipKRuQoDsQIOiirXoANlWXqJWgcZqEprUHT/LcPE9/e2zHcR1mPunTSE1sz/93XpJTwnBsAbQaiy2AVmOxBdBqLLYAWo0lsgCv2xXrM9Ni4/ykWPFtrK3SK+XH27wvxLeKEN8rwt24Sn/FwALWZOhzE1Dv8JDeVT7crafi4FMF6n49Q+8Kc6wAFFr1553b9O4S4f+3UXCu+OGrECpgPeY/rypHoyygsFG6v+p0VZ9QASioTuF5dHXxtN68hiHj9L6ET8GgAD8ICqhz+9pF4Ty8SzcpDufGrNi+MgND6uQcFXCwuwsD6pQFSJv+hooieGapCggUnkt3zJ/24qvw88pYgLT56B7dNT+c6/6RV59V1gKkeY4Eun/PMhcQ6LnZfzi11COvmmcB+04TBtQJN6aY5Vui9ykP7hUyzwKcjicuP3FhyDjhxoBpRgJdD01ZgPh8WkzXb9JT+oQKqC7s9VydOAvDIuHGYvTc6G8J7ZFXTVHAx+VJccEPL+XAAqTzcy9gYFW4MY1oJOCnvM6EBUzVa0fhExcgvZRgJODGErjHRgK9nkhNAcGR5+FTFRAYNxJwY0UZUwA/8qqcRAVIo0YCbqwoIwqYWgwfeVVO4gKk6FsCbqwolQKijrwqJ1UBgXwk4MaKkhXwIebIq3IyFSCdn3tZmgLUT3mdnMwFSOVIwI0VZLM6m+jIq3KGKqC60Opd28jyHT6kzuMHvWejgDo5uRQgab9bghsdhRwUUCcntwICdsCG85L/eApAAXVyci9AMoqRCI68CgqokzOSAiR5jkQcKKBOzsgKCBhmJNCRV0EBdXJGXoAky0hEHXkVFFAnp5ACJJ0UI5EGFFAnp7ACAuJGIsmRV0EBdXIKL0CCRqKZ8MiroIA6OSdSgKTzfjASw4AC6uScWAF5gQLq5NgCaLUF2AJsAbYAEFDnf1RAZ9/wAiQ4ZJxjWMDbGl3ZJ1TArecdEDLO8Svgz98GXdknVIDk2XIXBI1yjApYqomd9m+6asCxAkzDFkCrsdgCaDUWWwCtxmILoNVYbAG0GooQ/wCplJVZs2nywAAAAABJRU5ErkJggg==" style="text-align:center;height:128px"/>
+</a>
 </div>
 
 <div align="center">
